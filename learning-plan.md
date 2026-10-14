@@ -29,7 +29,7 @@
 | 12 | CloudWatch Logs and Logs Insights query patterns | Query cookbook using synthetic events |
 | 13 | IAM investigation scenarios: denied access, unexpected role assumption | Two short investigation reports |
 | 14 | VPC, subnet, route table, security group, NACL, endpoints; read the SSBP Network Security Fundamentals chapter | Network trust-boundary diagram |
-| 15 | VPC Flow Logs: accept/reject, traffic patterns, limitations | Synthetic flow-log analysis |
+| 15 | VPC Flow Logs: accept/reject, traffic patterns, limitations; AWS Network Firewall, Route 53 Resolver DNS Firewall, and Network Security Manager placement and logs; read the SSBP chapters | Synthetic flow-log analysis and inspection-architecture diagram |
 | 16 | Incident timeline, evidence handling, escalation | One-page investigation runbook |
 
 **Checkpoint:** You can turn an event into a timeline, identify what evidence is missing, and avoid claiming more than the logs prove.
@@ -59,7 +59,7 @@
 | 28 | EventBridge patterns and routing concepts | Event pattern examples |
 | 29 | CloudWatch alarms, metrics, log filters, alert quality | Alert design worksheet |
 | 30 | False positives, suppression, severity, deduplication | Tuning notes for three sample alerts |
-| 31 | AWS Network Firewall, Route 53 Resolver DNS Firewall, and Network Security Manager: placement, rule groups, logs as detection telemetry; read the SSBP chapters | Inspection-architecture diagram and sample rule set (not deployed) |
+| 31 | OpenTelemetry basics, logs/metrics/traces, cardinality and cost | Observability diagram |
 | 32 | Detection validation and tabletop exercise, using Detective-style entity pivots; read the SSBP Detective chapter | Tabletop report with gaps and follow-ups |
 
 **Checkpoint:** You can state the exact event pattern a detection depends on, how to test it, and what blind spots remain.

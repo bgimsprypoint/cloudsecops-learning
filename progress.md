@@ -19,7 +19,7 @@ Mark a week complete only when you have both practiced the topic and saved the a
 - [ ] W12 — Logs Insights query examples
 - [ ] W13 — Two IAM investigations
 - [ ] W14 — Network trust-boundary diagram
-- [ ] W15 — Flow-log analysis
+- [ ] W15 — Flow-log analysis and network inspection architecture
 - [ ] W16 — Investigation runbook
 
 ## Phase 3 — Prowler and posture (Weeks 17–24)
@@ -39,7 +39,7 @@ Mark a week complete only when you have both practiced the topic and saved the a
 - [ ] W28 — EventBridge patterns
 - [ ] W29 — Alert design worksheet
 - [ ] W30 — False-positive tuning notes
-- [ ] W31 — Network Firewall / DNS Firewall inspection architecture
+- [ ] W31 — Observability diagram
 - [ ] W32 — Tabletop report (Detective pivots)
 
 ## Phase 5 — Multi-account and LZA (Weeks 33–40)

@@ -9,13 +9,13 @@ The guide covers what to decide before enabling each AWS security service and wh
 | SSBP chapter | Week | Artifact |
 |---|---|---|
 | Network Security Fundamentals | 14 | Network trust-boundary diagram |
+| AWS Network Firewall | 15 | Inspection-architecture diagram |
+| Amazon Route 53 Resolver DNS Firewall | 15 | Inspection-architecture diagram |
+| AWS Network Security Manager | 15 | Inspection-architecture diagram |
 | AWS Security Hub (incl. CSPM) | 22 | Finding lifecycle diagram and delegated-admin/aggregation-region decision note |
 | Amazon Inspector | 23, 43 | Coverage matrix row; Trivy vs Inspector comparison |
 | Amazon Macie | 23 | Coverage matrix row |
 | Amazon GuardDuty | 26 | Coverage note and suppression-rule design |
-| AWS Network Firewall | 31 | Inspection-architecture diagram |
-| Amazon Route 53 Resolver DNS Firewall | 31 | Inspection-architecture diagram |
-| AWS Network Security Manager | 31 | Inspection-architecture diagram |
 | Amazon Detective | 32 | Tabletop report |
 | Amazon Security Lake | 35 | Log-flow and access diagram |
 | AWS Security Agent | 41 | Pipeline flow diagram |
