@@ -15,6 +15,7 @@ Check current official docs before installing tools or relying on version-specif
 - AWS Config: https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html
 - AWS Security Hub: https://docs.aws.amazon.com/securityhub/latest/userguide/what-is-securityhub.html
 - Amazon GuardDuty: https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html
+- AWS Security Services Best Practices (pre-deployment through post-enablement guidance for GuardDuty, Security Hub, Inspector, Macie, Detective, Security Lake, WAF, Network Firewall, DNS Firewall): https://aws.github.io/aws-security-services-best-practices/
 - EventBridge: https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html
 
 ## AWS Landing Zone Accelerator
