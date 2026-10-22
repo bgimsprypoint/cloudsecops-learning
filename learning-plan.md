@@ -2,7 +2,8 @@
 
 **Time budget:** 1 hour/day, Monday–Friday; 52 weeks; approximately 260 hours.  
 **Approach:** local-first and portfolio-oriented. Aim to produce one small artifact each week.  
-**SSBP:** the AWS Security Services Best Practices guide, https://aws.github.io/aws-security-services-best-practices/. Each of its chapters is assigned to a week below; `notes/aws-security-services-best-practices.md` maps them.
+**SSBP:** the AWS Security Services Best Practices guide, https://aws.github.io/aws-security-services-best-practices/. Each of its chapters is assigned to a week below; `notes/aws-security-services-best-practices.md` maps them.  
+**Workshops:** `notes/hands-on-workshops.md` maps AWS workshops, GitHub labs, datasets, and CTFs to each week, tagged by what they need (browser, local, Skill Builder, or your own AWS account).
 
 ## Phase 1 — Foundations and a safe local workflow (Weeks 1–8)
 

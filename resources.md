@@ -40,6 +40,11 @@ Check current official docs before installing tools or relying on version-specif
 - LocalStack docs: https://docs.localstack.cloud/
 - Floci project: search the current project documentation/repository for supported services, API compatibility, setup, and current maintenance status before adopting it.
 
+## Hands-on workshops and labs
+- Week-by-week map with access requirements: `notes/hands-on-workshops.md`
+- AWS Workshop Studio catalog: https://catalog.workshops.aws/
+- AWS Security Maturity Model (links a workshop to each control): https://maturitymodel.security.aws.dev/
+
 ## Good habits
 - Prefer official documentation for service behavior and threat-model assumptions.
 - Use community examples as starting points, not authoritative security policy.

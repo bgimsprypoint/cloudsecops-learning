@@ -20,7 +20,7 @@ Use Prowler's Infrastructure-as-Code scanning where possible to review Terraform
 - `learning-plan.md` — the 52-week roadmap
 - `progress.md` — weekly checkboxes
 - `resources.md` — official docs and project links
-- `notes/` — concise topic notes and prompts
+- `notes/` — concise topic notes and prompts; `notes/hands-on-workshops.md` maps workshops and labs to each week
 - `labs/` — hands-on exercises and deliverables
 - `scripts/setup-lab.sh` — safe starter helper; it does not create AWS resources
 
